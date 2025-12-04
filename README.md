@@ -1,5 +1,5 @@
 # 🌍 Supply Chain Due Diligence Toolkit  
-### Practical Templates, Checklists & Governance Frameworks for Ethical & Sustainable Supply Chains
+### Practical Templates,Checklists & Governance Frameworks for Ethical & Sustainable Supply Chains
 
 This repository provides a complete **Supply Chain Due Diligence Toolkit** designed for organizations aiming to comply with global regulations and ESG expectations while operating ethical, transparent, and resilient supply chains.
 
