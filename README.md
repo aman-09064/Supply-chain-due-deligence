@@ -41,7 +41,7 @@ Supports:
 
 ---
 
-# 📝 File Overview
+#  File Overview
 
 ### 📄 [**Supply_Chain_Due_Diligence.md**](Supply-Chain-Due-Diligence.md)  
 A complete guide to:
