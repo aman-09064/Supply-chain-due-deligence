@@ -90,6 +90,7 @@
 
 ## 8 Closing Statement  
 Audit conducted in accordance with international due diligence frameworks (OECD, UNGP, CSRD, ESRS).
+---
 
 **Auditor Name:**  
 **Signature:**  
