@@ -48,7 +48,7 @@ Suppliers must answer all questions honestly and attach evidence where required.
 | Do you hold environmental certifications (ISO 14001, etc.)? | | |
 | Do you manage waste & hazardous materials responsibly? | | |
 | Do you have water, energy, and pollution reduction efforts? | | |
-| Are you compliant with REACH/RoHS (if applicable)? | | |
+| Are you compliant with [REACH](https://github.com/aman-09064/eu-compliance-ip-portfolio/tree/main/02-compliance-artifacts)/RoHS (if applicable)? | | |
 
 ---
 
